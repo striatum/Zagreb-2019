@@ -2,8 +2,8 @@ channels:
   - conda-forge
 dependencies:
   - python=3.7
-  - numpy=1.17
   - pip
+  - numpy=1.17
   - pandas=0.25
   - scikit-learn=0.21.3
   - scipy=1.3
